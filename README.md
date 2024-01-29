@@ -4,12 +4,12 @@ Projet pédagogique réalisé au CESI
 
 
 
-##Contributeurs :
+## Contributeurs :
 
-###Chef de projet :
+### Chef de projet :
 - COUTURE Léo
 
-###Membres :
+### Membres :
 - DEMEAUTIS Baptiste
 - PELTIER Dorian
 - BADIN Jeffrey
